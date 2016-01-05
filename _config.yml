@@ -1,7 +1,7 @@
 name: cbiztest
 favicon: null
 layout_spectrum: 0.9800486941821873
-typography_spectrum: 0.3238484230823815
+typography_spectrum: 0.71964
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.7518778624944389
+  brandStrength: 0.1875
   lightness: 0.135625985218212
-  saturation: 0.39604347525164485
+  saturation: 0.4375
   rhythmicContrast: 0.9109060259070247
 purpose: []
