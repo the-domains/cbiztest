@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[cbiztest]]></title>
+        <description><![CDATA[cbiztest]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 05 Jan 2016 22:09:48 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Critical Provision Saved, But Challenges Remain for the Affordable Care Act]]></title>
+            <description><![CDATA[<article><h1>A Critical Provision Saved, But Challenges Remain for the Affordable Care Act</h1><p>Andrew Stern, senior fellow at Columbia’s Richman Center for Business, Law, and Public Policy discusses the implications of last Thursday’s Supreme Court ruling on the Affordable Care Act and the challenges the legislation still faces ahead.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/72b72b84902a5e33f13fe8286b2e23e200e5c90b.jpg"></article>]]></description>
+            <link>undefineda-critical-provision-saved-but-challenges-remain-for-the-af/index.html</link>
+            <guid isPermaLink="false">1bb3d597-8813-49c9-848c-fa2afaa75983</guid>
+            <pubDate>Tue, 05 Jan 2016 22:09:41 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
