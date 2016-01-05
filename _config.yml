@@ -1,0 +1,28 @@
+name: cbiztest
+favicon: null
+layout_spectrum: 0.9800486941821873
+typography_spectrum: 0.3238484230823815
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.7518778624944389
+  lightness: 0.135625985218212
+  saturation: 0.39604347525164485
+  rhythmicContrast: 0.9109060259070247
+purpose: []
