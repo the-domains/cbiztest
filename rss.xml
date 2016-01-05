@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[cbiztest]]></title>
         <description><![CDATA[cbiztest]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cbiztest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 22:09:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 05 Jan 2016 22:10:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cbiztest/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Chris Borland Makes the Hard Choice to Go Long]]></title>
+            <description><![CDATA[<article><h1>Chris Borland Makes the Hard Choice to Go Long</h1><p>Chris Borland’s dramatic decision to retire at age 24 can teach us all something about the way we value the present and make hard decisions about the future.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1a1df988557fbbce64443f79ce2da3f62a6452e0.jpg"></article>]]></description>
+            <link>https://thegrid.ai/cbiztest/f38a3d69-c273-4513-8179-1a03060d75a6/index.html</link>
+            <guid isPermaLink="false">f38a3d69-c273-4513-8179-1a03060d75a6</guid>
+            <pubDate>Tue, 05 Jan 2016 22:09:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A Critical Provision Saved, But Challenges Remain for the Affordable Care Act]]></title>
             <description><![CDATA[<article><h1>A Critical Provision Saved, But Challenges Remain for the Affordable Care Act</h1><p>Andrew Stern, senior fellow at Columbia’s Richman Center for Business, Law, and Public Policy discusses the implications of last Thursday’s Supreme Court ruling on the Affordable Care Act and the challenges the legislation still faces ahead.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/72b72b84902a5e33f13fe8286b2e23e200e5c90b.jpg"></article>]]></description>
-            <link>undefineda-critical-provision-saved-but-challenges-remain-for-the-af/index.html</link>
+            <link>https://thegrid.ai/cbiztest/a-critical-provision-saved-but-challenges-remain-for-the-af/index.html</link>
             <guid isPermaLink="false">1bb3d597-8813-49c9-848c-fa2afaa75983</guid>
             <pubDate>Tue, 05 Jan 2016 22:09:41 GMT</pubDate>
         </item>
